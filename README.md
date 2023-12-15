@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**enes-burak/enes-burak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Enes Burak Kahraman
-
 🌐 [LinkedIn](www.linkedin.com/in/brkhero-it) | 📧 brkhero.it@gmail.com | 🇨🇦 Toronto, ON
 
 ---
