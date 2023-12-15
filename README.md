@@ -1,56 +1,57 @@
-### Hi there 👋
+<h1 align="center">Welcome to My GitHub Heaven!</h1>
+ 
+<p align="center">
+  <a align="center" href="https://www.linkedin.com/in/brkhero-it/" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
+  </a>
 
-🌐 [LinkedIn](www.linkedin.com/in/brkhero-it) | 📧 brkhero.it@gmail.com | 🇨🇦 Toronto, ON
+ [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/SelmanDemiray)
+  <a href="https://medium.com/@hkaanturgut" alt="Medium">
+    <img
+      src="https://img.shields.io/badge/-Medium-6610F2?style=for-the-badge&logo=Medium&logoColor=FFFFFF&link=https://devenes.medium.com/" />
+  </a>
+</p>
+
+👋 Hey there, my name is Burak! Connect with me: 🌐 [LinkedIn](www.linkedin.com/in/brkhero-it) | 📧 brkhero.it@gmail.com | 🇨🇦 Toronto, ON
 
 ---
 
 ## 👋 About Me
-As a Cloud and DevOps Engineer with nearly four years of experience, I specialize in building, implementing, and maintaining scalable, highly available infrastructure and robust CI/CD pipelines. My expertise extends across Azure, AWS, and GCP platforms, with a focus on advanced automation scripting and the administration of services. I'm passionate about enhancing performance and reducing time-to-market in software development operations.
+Hi, I'm Enes Burak, a Cloud and DevOps Engineer from Toronto, passionate about building robust cloud solutions and automating the world one script at a time!
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming/Scripting**: Bash, PowerShell, Python, Azure CLI
-- **Cloud Infrastructure**: Azure, AWS, GCP, Terraform, Ansible
-- **CI/CD**: Azure DevOps, Jenkins, Git, GitHub
-- **Microservices and Containers**: Docker, Kubernetes, Azure Container Services
-- **Monitoring**: Azure Monitor, Log Analytics, Application Insights
-- **Database Management**: SQL, PostgreSQL, CosmosDB
-- **Cloud Security**: Azure Security, Azure Key Vault
+## 📈 Cloud Infrastructure & Automation
+🚀 Mastering Terraform, I design and manage dynamic cloud infrastructures across Azure, AWS, and GCP, with a sprinkle of Ansible for automation magic.
+
+## 💻 CI/CD and Version Control
+🌟 Crafting efficient CI/CD pipelines using Azure DevOps and Jenkins, I integrate Docker for seamless deployments and manage code with Git and GitHub.
+
+## 🌐 Scripting and Programming
+🔧 Armed with Bash, PowerShell, Python, and Azure CLI, I automate and streamline cloud operations, making life easier for everyone involved.
 
 ---
 
-## 📖 Professional Experience
-### Cloud & DevOps Engineer at Deop Inc. (Jan 2021–Present)
-- Mastered Terraform for dynamic cloud resource management.
-- Engineered modular cloud infrastructure using Terraform.
-- Developed Azure DevOps pipelines for automated build, test, and deployment processes.
-- Integrated Docker with Azure DevOps for containerization.
-- Authored automation scripts in Bash, PowerShell, and Python.
-
-### IT & Cloud Support at Deop Inc. (Feb 2020–Jan 2021)
-- Delivered first-level support for cloud-based applications.
-- Assisted in configuring cloud environments on Azure.
-- Monitored cloud services using Azure Monitor and Application Insights.
+## 🏢 Professional Experience
+🛠️ At Deop Inc. as a Cloud & DevOps Engineer, I'm all about scalable cloud solutions and CI/CD pipelines that work like a charm!
 
 ---
 
 ## 🎓 Education
-- Computer Science, The University of Toronto (2014 - 2016)
+📚 Proud alum of The University of Toronto with a Bachelor's in Computer Science - Go Varsity Blues!
 
 ---
 
-## 📜 Certifications
-- Microsoft Certified: Azure Solutions Architect Expert
-- Microsoft Certified: Azure Administrator Associate
-- AWS Partner: Various Accreditations
+## 📜 Certifications & Education
+💼 Certified in Azure and AWS, I'm always up for learning and growing in the cloud world.
 
 ---
 
-## 🌟 Soft Skills
-- Communication, Problem Solving, Adaptability, Collaboration, Critical Thinking
+## 🌟 Core Competencies
+🤝 I'm all about clear communication, innovative problem-solving, and staying adaptable in this ever-changing tech landscape.
 
 ---
 
-Feel free to connect with me for collaborations or any queries!
+🤗 Let's connect! I'm always open to chat about cloud innovations, DevOps adventures, or just geek out about tech in general!
 
