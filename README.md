@@ -5,15 +5,13 @@
     <img
       src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
   </a>
-
- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/SelmanDemiray)
-  <a href="https://medium.com/@hkaanturgut" alt="Medium">
+  <a href="https://medium.com/@enes.burak.kahraman" alt="Medium">
     <img
       src="https://img.shields.io/badge/-Medium-6610F2?style=for-the-badge&logo=Medium&logoColor=FFFFFF&link=https://devenes.medium.com/" />
   </a>
 </p>
 
-👋 Hey there, my name is Burak! Connect with me: 🌐 [LinkedIn](www.linkedin.com/in/brkhero-it) | 📧 brkhero.it@gmail.com | 🇨🇦 Toronto, ON
+👋 Hey there, my name is Burak | 🇨🇦 Toronto, ON
 
 ---
 
@@ -38,13 +36,8 @@ Hi, I'm Enes Burak, a Cloud and DevOps Engineer from Toronto, passionate about b
 
 ---
 
-## 🎓 Education
-📚 Proud alum of The University of Toronto with a Bachelor's in Computer Science - Go Varsity Blues!
-
----
-
 ## 📜 Certifications & Education
-💼 Certified in Azure and AWS, I'm always up for learning and growing in the cloud world.
+📚 Certified in Azure and AWS, I'm always up for learning and growing in the cloud world with education at The University of Toronto in Computer Science!
 
 ---
 
